@@ -43,16 +43,18 @@ managing and maintaining the data pipeline.
 
 ## Features
 
-\- Real-time data collection from multiple sources. - Automated data
-processing and storage. - Scalable and cloud-based data pipeline.
+- Real-time data collection from multiple sources. 
+- Automated data processing and storage.
+- - Scalable and cloud-based data pipeline.
 
 ## Contributing
 
 If you\'d like to contribute to this project, please follow these steps:
 
-1\. Fork the repository. 2. Create a new branch for your feature or bug
-fix. 3. Make your changes and submit a pull request. 4. Be sure to
-follow the project\'s coding and contribution guidelines.
+1. Fork the repository. 
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and submit a pull request.
+4. 4. Be sure to follow the project\'s coding and contribution guidelines.
 
 ## License
 
@@ -60,8 +62,7 @@ it\'s open-source and can be freely used and modified.
 
 ## Contact Information
 
-For any questions, feedback, or inquiries, you can reach out to the
-project maintainer:
+For any questions, feedback, or inquiries, you can reach out to the project maintainer:
 
 \- Name: \[Yigit Yildirim\] - Email: \[yildirimmyigit@gmail.com\]
 
