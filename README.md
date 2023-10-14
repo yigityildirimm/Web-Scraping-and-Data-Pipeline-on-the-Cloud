@@ -1,4 +1,4 @@
-\# Web Scraping and Data Pipeline on the Cloud
+# Web Scraping and Data Pipeline on the Cloud
 
 \## Project Description (Case Study) This project is aimed at solving
 the data needs of \"Gans,\" a startup developing an e-scooter-sharing
