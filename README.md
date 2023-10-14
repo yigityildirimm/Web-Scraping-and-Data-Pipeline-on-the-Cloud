@@ -12,9 +12,10 @@ automating a data pipeline in the cloud to collect and store the
 following types of data:
 
 \- \*\*Demographical Data\*\*: Collected from Wikipedia using web
-scraping techniques. - \*\*Weather Data\*\*: Obtained through APIs to
-track weather conditions in different cities. - \*\*Airport and Flights
-Data\*\*: Also collected through APIs to monitor airport activities and
+scraping techniques. 
+- \*\*Weather Data\*\*: Obtained through APIs to
+track weather conditions in different cities.
+ - \*\*Airport and Flights Data\*\*: Also collected through APIs to monitor airport activities and
 flight schedules.
 
 All collected data will be stored in a SQL database and regularly
