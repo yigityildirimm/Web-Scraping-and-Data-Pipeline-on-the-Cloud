@@ -8,7 +8,7 @@ collect, process, and provide real-time data from various external
 sources to help Gans predict e-scooter movement and ensure that their
 scooters are available where users need them.
 
-As the Data Engineer for Gans, your role includes assembling and
+As the Data Engineer for Gans, my role includes assembling and
 automating a data pipeline in the cloud to collect and store the
 following types of data:
 
