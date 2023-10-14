@@ -45,7 +45,7 @@ managing and maintaining the data pipeline.
 
 - Real-time data collection from multiple sources. 
 - Automated data processing and storage.
-- - Scalable and cloud-based data pipeline.
+- Scalable and cloud-based data pipeline.
 
 ## Contributing
 
@@ -54,7 +54,7 @@ If you\'d like to contribute to this project, please follow these steps:
 1. Fork the repository. 
 2. Create a new branch for your feature or bug fix.
 3. Make your changes and submit a pull request.
-4. 4. Be sure to follow the project\'s coding and contribution guidelines.
+4. Be sure to follow the project\'s coding and contribution guidelines.
 
 ## License
 
