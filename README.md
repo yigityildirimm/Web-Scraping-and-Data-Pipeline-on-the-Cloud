@@ -62,9 +62,10 @@ it\'s open-source and can be freely used and modified.
 
 ## Contact Information
 
-For any questions, feedback, or inquiries, you can reach out to the project maintainer:
+For any questions, feedback, or inquiries, you can reach out to:
 
-\- Name: \[Yigit Yildirim\] - Email: \[yildirimmyigit@gmail.com\]
+- Name: Yigit Yildirim
+- Email: yildirimmyigit@gmail.com
 
 We welcome collaboration and contributions from the community to help
 improve this data pipeline.
