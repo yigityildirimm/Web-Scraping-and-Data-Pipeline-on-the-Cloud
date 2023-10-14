@@ -1,7 +1,8 @@
 # Web Scraping and Data Pipeline on the Cloud
 
-## Project Description (Case Study) This project is aimed at solving
-the data needs of \"Gans,\" a startup developing an e-scooter-sharing
+## Project Description 
+(Case Study)
+This project is aimed at solving the data needs of \"Gans,\" a startup developing an e-scooter-sharing
 system operating in major cities worldwide. The primary objective is to
 collect, process, and provide real-time data from various external
 sources to help Gans predict e-scooter movement and ensure that their
