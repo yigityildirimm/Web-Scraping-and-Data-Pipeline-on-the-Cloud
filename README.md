@@ -28,12 +28,12 @@ collection and accessibility.
 To set up the project locally or in a cloud environment, follow these
 steps:
 
-1\. Clone the repository to your local machine or cloud instance. 2.
-Install the required dependencies using \`pip\` or your preferred
-package manager. 3. Configure the necessary API keys and access
-credentials in the project configuration file. 4. Create and set up a
-suitable SQL database to store the collected data. 5. Schedule and
-automate the data collection process as per the project requirements.
+1. Clone the repository to your local machine or cloud instance. 
+2. Install the required dependencies using \`pip\` or your preferred
+package manager. 
+3. Configure the necessary API keys and access credentials in the project configuration file. 
+4. Create and set up a suitable SQL database to store the collected data. 
+5. Schedule and automate the data collection process as per the project requirements.
 
 ## Usage
 
