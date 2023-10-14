@@ -1,6 +1,6 @@
 # Web Scraping and Data Pipeline on the Cloud
 
-\## Project Description (Case Study) This project is aimed at solving
+## Project Description (Case Study) This project is aimed at solving
 the data needs of \"Gans,\" a startup developing an e-scooter-sharing
 system operating in major cities worldwide. The primary objective is to
 collect, process, and provide real-time data from various external
@@ -21,7 +21,7 @@ All collected data will be stored in a SQL database and regularly
 updated. The data pipeline will be hosted on AWS for seamless data
 collection and accessibility.
 
-\## Installation and Setup
+## Installation and Setup
 
 To set up the project locally or in a cloud environment, follow these
 steps:
@@ -33,18 +33,18 @@ credentials in the project configuration file. 4. Create and set up a
 suitable SQL database to store the collected data. 5. Schedule and
 automate the data collection process as per the project requirements.
 
-\## Usage
+## Usage
 
 Detailed usage instructions and code examples can be found in the
 project\'s documentation. Ensure that you follow best practices for
 managing and maintaining the data pipeline.
 
-\## Features
+## Features
 
 \- Real-time data collection from multiple sources. - Automated data
 processing and storage. - Scalable and cloud-based data pipeline.
 
-\## Contributing
+## Contributing
 
 If you\'d like to contribute to this project, please follow these steps:
 
@@ -52,11 +52,11 @@ If you\'d like to contribute to this project, please follow these steps:
 fix. 3. Make your changes and submit a pull request. 4. Be sure to
 follow the project\'s coding and contribution guidelines.
 
-\## License
+## License
 
 it\'s open-source and can be freely used and modified.
 
-\## Contact Information
+## Contact Information
 
 For any questions, feedback, or inquiries, you can reach out to the
 project maintainer:
