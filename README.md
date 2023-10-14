@@ -54,7 +54,6 @@ follow the project\'s coding and contribution guidelines.
 
 \## License
 
-This project is licensed under the \[MIT License\](LICENSE), which means
 it\'s open-source and can be freely used and modified.
 
 \## Contact Information
