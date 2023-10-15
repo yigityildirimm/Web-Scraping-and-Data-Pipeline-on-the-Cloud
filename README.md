@@ -60,12 +60,9 @@ If you\'d like to contribute to this project, please follow these steps:
 
 it\'s open-source and can be freely used and modified.
 
-## Contact Information
-
-For any questions, feedback, or inquiries, you can reach out to:
-
-- Name: Yigit Yildirim
-- Email: yildirimmyigit@gmail.com
-
 We welcome collaboration and contributions from the community to help
 improve this data pipeline.
+
+You can find below "medium.com" article.
+
+https://medium.com/@yildirimmyigit/data-engineering-pipeline-with-aws-e483821c7ec8
